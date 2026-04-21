@@ -1,0 +1,26 @@
+# .NET build outputs
+bin/
+obj/
+publish/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS/Rider
+.vs/
+.idea/
+*.DotSettings.user
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+*.lock.json
+!packages.lock.json
+
+# OS
+.DS_Store
+Thumbs.db
