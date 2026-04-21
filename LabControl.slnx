@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/LabControl/LabControl.csproj" />
+  </Folder>
+</Solution>
